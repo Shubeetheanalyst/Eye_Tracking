@@ -1,0 +1,2 @@
+conda activate gaze_env
+pip install opencv-python pandas gaze-tracking tk matplotlib seaborn
