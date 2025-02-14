@@ -39,7 +39,7 @@ pip install opencv-python pandas numpy pillow customtkinter openpyxl
 
 4. **Run the application:**
    ```sh
-   python Marie Pack Testing.py
+   app.py
    ```
 
 ---
