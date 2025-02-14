@@ -1,0 +1,7 @@
+tkintertable
+customtkinter
+Pillow
+opencv-python
+pandas
+numpy
+openpyxl
